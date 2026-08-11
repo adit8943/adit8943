@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Backend Engineering | AI Enthusiast</h3>
+<h3 align="center">
+🚀 Full-Stack Developer | MERN Stack | FastAPI | Backend Engineering | AI Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://github.com/adit8943">
@@ -18,33 +20,34 @@
 I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building real-world applications and learning how modern software systems work.
 
 * 🔭 Currently working on **URL Shortener**
-* 🌱 Currently learning **AI & Machine Learning**
+* 🌱 Currently learning **Artificial Intelligence & Machine Learning**
 * 💻 Interested in **Full-Stack Development & Backend Engineering**
 * ⚡ Strong interest in **MERN Stack**
-* 🧠 Currently improving **DSA, System Design & Software Architecture**
-* 🚀 Goal: Build scalable and production-ready applications
-* 📚 Always learning something new
+* 🐍 Building backend applications with **Python & FastAPI**
+* 🧠 Improving **DSA, System Design & Software Architecture**
+* 🚀 Interested in building **scalable and production-ready applications**
+* 📚 Always learning and building new things
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/aditya-yadav-82321238b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:adit9056848@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
 <a href="https://instagram.com/pvtadi604" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
 </a>
 
 <a href="https://github.com/adit8943" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 </p>
@@ -53,15 +56,17 @@ I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp,typescript" />
+<img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,typescript" />
 
 </p>
 
-### 🎨 Frontend
+---
+
+## 🎨 Frontend Development
 
 <p align="left">
 
@@ -69,15 +74,24 @@ I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building
 
 </p>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend Development
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
 
 </p>
 
-### 🗄️ Databases
+<p>
+<strong>Backend Technologies:</strong>
+Node.js • Express.js • FastAPI • REST APIs • JWT • Authentication • Authorization
+</p>
+
+---
+
+## 🗄️ Databases
 
 <p align="left">
 
@@ -85,7 +99,9 @@ I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building
 
 </p>
 
-### ☁️ DevOps & Tools
+---
+
+## ☁️ DevOps & Development Tools
 
 <p align="left">
 
@@ -117,7 +133,7 @@ I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building
 
 ---
 
-# 📈 GitHub Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -137,41 +153,115 @@ I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adit8943&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🔗 URL Shortener
 
-A full-stack URL shortening application designed to create short, shareable links.
+A full-stack URL shortening application that converts long URLs into short, shareable links.
 
-**Tech Stack**
+### Tech Stack
 
 `React` `Node.js` `Express.js` `MongoDB`
 
-🔗 [View Repository](https://github.com/adit8943/url-shortner)
+🔗 **Repository:**
+https://github.com/adit8943/url-shortner
 
 ---
 
 ## 🛒 E-Commerce Platform
 
-A production-style full-stack e-commerce platform with authentication, products, cart, orders and scalable backend architecture.
+A production-style full-stack e-commerce platform designed with scalable backend architecture.
 
-**Tech Stack**
+### Features
 
-`React` `Node.js` `Express.js` `PostgreSQL` `Redis`
+* 🔐 Authentication & Authorization
+* 👤 User Management
+* 🛍️ Product Management
+* 🛒 Shopping Cart
+* 📦 Order Management
+* 💳 Payment Integration
+* ⚡ Redis Caching
+* 📊 Admin Dashboard
 
-🔗 Coming Soon
+### Tech Stack
+
+`React` `Node.js` `Express.js` `PostgreSQL` `Redis` `Docker`
+
+🚧 **Currently Building**
 
 ---
 
 ## 🤖 AI Assistant
 
-An AI-powered assistant designed to interact with users and provide intelligent responses using modern AI technologies.
+An AI-powered assistant designed to provide intelligent responses and interact with users through modern AI APIs.
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `FastAPI` `React` `AI` `REST APIs`
 
-🔗 Coming Soon
+🚧 **Currently Building**
+
+---
+
+# 🐍 Python & FastAPI
+
+I'm also building backend applications using **Python and FastAPI**.
+
+### FastAPI Skills
+
+```text
+FastAPI
+│
+├── REST APIs
+├── Pydantic
+├── SQLAlchemy
+├── PostgreSQL
+├── JWT Authentication
+├── OAuth2
+├── Authorization
+├── Dependency Injection
+├── Middleware
+├── CORS
+├── Async Programming
+└── API Documentation
+```
+
+---
+
+# 🔐 Backend & Authentication
+
+I'm interested in building secure and production-ready authentication systems.
+
+```text
+Authentication
+│
+├── User Registration
+├── Login
+├── Password Hashing
+├── JWT Access Tokens
+├── Refresh Tokens
+├── Cookies
+├── HTTP Headers
+├── OAuth2
+└── Session Management
+
+Authorization
+│
+├── Roles
+├── Permissions
+├── RBAC
+└── Protected Routes
+```
 
 ---
 
@@ -194,6 +284,44 @@ AI Engineering
         ├── Machine Learning
         ├── AI APIs
         └── AI Applications
+
+DevOps
+        │
+        ├── Docker
+        ├── Git
+        ├── GitHub
+        └── AWS
+```
+
+---
+
+# 📚 Currently Learning
+
+```text
+Frontend
+├── React
+└── Tailwind CSS
+
+Backend
+├── Node.js
+├── Express.js
+└── FastAPI
+
+Databases
+├── PostgreSQL
+├── MongoDB
+└── Redis
+
+Engineering
+├── Docker
+├── REST APIs
+├── System Design
+└── Data Structures & Algorithms
+
+AI
+├── Python
+├── Machine Learning
+└── AI Applications
 ```
 
 ---
@@ -201,36 +329,23 @@ AI Engineering
 # 🎯 2026 Goals
 
 * [ ] Become a strong Full-Stack Developer
+* [ ] Master React
+* [ ] Master Node.js & Express.js
+* [ ] Master FastAPI
 * [ ] Build production-level applications
-* [ ] Master backend development
+* [ ] Master PostgreSQL & MongoDB
+* [ ] Learn Redis deeply
 * [ ] Improve DSA & problem solving
 * [ ] Learn System Design
 * [ ] Build AI-powered applications
 * [ ] Contribute to Open Source
-* [ ] Build and deploy SaaS products
+* [ ] Build SaaS products
+* [ ] Deploy scalable applications
 * [ ] Get a professional software development role
 
 ---
 
-# 📚 Currently Learning
-
-```text
-React
-Node.js
-Express.js
-FastAPI
-PostgreSQL
-Redis
-Docker
-System Design
-Data Structures & Algorithms
-Artificial Intelligence
-Machine Learning
-```
-
----
-
-# 📌 GitHub Highlights
+# 📌 GitHub Profile Summary
 
 <p align="center">
 
@@ -248,11 +363,13 @@ Machine Learning
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adit8943&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adit8943&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adit8943&theme=tokyonight&utcOffset=5.5" />
 
 </p>
 
@@ -270,3 +387,6 @@ Machine Learning
   <b>Let's build something amazing together 🚀</b>
 </p>
 
+<p align="center">
+  <i>Keep coding. Keep building. Keep learning.</i>
+</p>
