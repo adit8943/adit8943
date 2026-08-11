@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
+<h1 align="center">Hi 👋, I'm Aditya </h1>
 
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Backend Engineering | AI Enthusiast</h3>
 
