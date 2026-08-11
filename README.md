@@ -1,18 +1,272 @@
-h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 
-- 🔭 I’m currently working on [URl-Shortner](https://github.com/adit8943/url-shortner)
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Backend Engineering | AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **I am trying to learn AI**
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **adit9056848@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pvtadi604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvtadi604" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/adit8943">
+    <img src="https://img.shields.io/github/followers/adit8943?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/adit8943">
+    <img src="https://komarev.com/ghpvc/?username=adit8943&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I'm **Aditya**, a passionate Full-Stack Developer from India who enjoys building real-world applications and learning how modern software systems work.
+
+* 🔭 Currently working on **URL Shortener**
+* 🌱 Currently learning **AI & Machine Learning**
+* 💻 Interested in **Full-Stack Development & Backend Engineering**
+* ⚡ Strong interest in **MERN Stack**
+* 🧠 Currently improving **DSA, System Design & Software Architecture**
+* 🚀 Goal: Build scalable and production-ready applications
+* 📚 Always learning something new
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/aditya-yadav-82321238b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:adit9056848@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://instagram.com/pvtadi604" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://github.com/adit8943" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp,typescript" />
+
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,framer" />
+
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+
+</p>
+
+### ☁️ DevOps & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adit8943&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit8943&layout=compact&theme=tokyonight&langs_count=8" />
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=adit8943&theme=tokyonight&hide_border=false" />
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adit8943&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/adit8943/adit8943/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 URL Shortener
+
+A full-stack URL shortening application designed to create short, shareable links.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+🔗 [View Repository](https://github.com/adit8943/url-shortner)
+
+---
+
+## 🛒 E-Commerce Platform
+
+A production-style full-stack e-commerce platform with authentication, products, cart, orders and scalable backend architecture.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `PostgreSQL` `Redis`
+
+🔗 Coming Soon
+
+---
+
+## 🤖 AI Assistant
+
+An AI-powered assistant designed to interact with users and provide intelligent responses using modern AI technologies.
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `AI` `REST APIs`
+
+🔗 Coming Soon
+
+---
+
+# 💼 What I'm Currently Building
+
+```text
+Full-Stack Development
+        │
+        ├── React
+        ├── Node.js
+        ├── Express.js
+        ├── FastAPI
+        ├── PostgreSQL
+        ├── MongoDB
+        └── Redis
+
+AI Engineering
+        │
+        ├── Python
+        ├── Machine Learning
+        ├── AI APIs
+        └── AI Applications
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Become a strong Full-Stack Developer
+* [ ] Build production-level applications
+* [ ] Master backend development
+* [ ] Improve DSA & problem solving
+* [ ] Learn System Design
+* [ ] Build AI-powered applications
+* [ ] Contribute to Open Source
+* [ ] Build and deploy SaaS products
+* [ ] Get a professional software development role
+
+---
+
+# 📚 Currently Learning
+
+```text
+React
+Node.js
+Express.js
+FastAPI
+PostgreSQL
+Redis
+Docker
+System Design
+Data Structures & Algorithms
+Artificial Intelligence
+Machine Learning
+```
+
+---
+
+# 📌 GitHub Highlights
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adit8943&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adit8943&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adit8943&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adit8943&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> "Don't just learn how to use technologies. Learn how they work, why they work, and how to build with them."
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <b>Let's build something amazing together 🚀</b>
+</p>
+
